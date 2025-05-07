@@ -1,18 +1,21 @@
 # Problem_Solving
-
-## Solving Problems it's a skill that every Programmer should have, at least must slove more than 2000 Problems.
-
+# Solving problems is a skill that every programmer should have. A good programmer should solve at least 2,000 problems.
 ## Some Advice:
+1: Understand the difference between programming languages and programming itself:
+A programming language is just a tool used to solve problems (depending on the problem you have).
+Programming is about logic—the way you think, analyze, and find the best solution.
 
-1: You have to Know that, Programming language it not means Programming it just a tools used to solve problems (Dependent the Problem that you have.)
-Programming it Logic, the way you think, analysis, ability to find the best solution...
+2: Think before you code:
+Take your time to analyze a problem before writing any code.
 
-2: Take your time about thinking on problem before you write Code.
+3: Start with low-level languages:
+Do not begin with the newest technologies. Instead, start with low-level languages like C/C++ or Java to better understand how things work.
+High-level languages have many built-in functions, which can make you dependent on them.
+If you start with C++, for example, you’ll have to build many functions yourself, strengthening your problem-solving skills.
 
-3: Do not Start with the newest technologies, on the contrary start with low level languages to know more about how things works in right way like C/C++, Java
-because if you start with high level languages have a lot of built-in function ready and you will be weak in opposite if you start with C++ example you have to build lot of function to use it in your Project ... 
-this is the best platform to start from Zero to be good at Programming `ProgrammingAdvices`.
-`This is roadmap: https://programmingadvices.com/p/roadmap`.
-the Owner of this roadmap is `Mr. Mohammed Abu-Hadhoud`.
+4: A great platform to start from zero and become proficient in programming is ProgrammingAdvices.
+Here’s their roadmap: https://programmingadvices.com/p/roadmap.
+The owner of this roadmap is Mr. Mohammed Abu-Hadhoud.
 
-4: Do not wast your time with negative people, focus on your goals and self improvement.
+5: Avoid negativity and stay focused:
+Do not waste time with negative people. Focus on your goals and self-improvement.
