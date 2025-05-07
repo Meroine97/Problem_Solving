@@ -1,5 +1,6 @@
 # Problem_Solving
-# Solving problems is a skill that every programmer should have. A good programmer should solve at least 2,000 problems.
+> [!IMPORTANT]
+> # Solving problems is a skill that every programmer should have. A good programmer should solve at least 2,000 problems.
 ## Some Advice:
 `1: Understand the difference between programming languages and programming itself:`  
 A programming language is just a tool used to solve problems (depending on the problem you have).
