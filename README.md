@@ -14,7 +14,7 @@ High-level languages have many built-in functions, which can make you dependent 
 If you start with C++, for example, you’ll have to build many functions yourself, strengthening your problem-solving skills.
 
 `4: A great platform to start from zero and become proficient in programming is ProgrammingAdvices.`  
-Here’s their **[Roadmap Link]**(https://programmingadvices.com/p/roadmap).
+Here’s their [Roadmap Link](https://programmingadvices.com/p/roadmap).
 The owner of this roadmap is Mr. Mohammed Abu-Hadhoud.
 
 `5: Avoid negativity and stay focused:`  
